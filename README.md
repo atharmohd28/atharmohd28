@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @atharmohd28
 - 👀 I’m interested in learning new Technical skill.
 - 🌱 I’m Python Developer 
-- 💞️ I’m looking for best Python corporate
 - 📫 How to reach me mohdathar2842@gmail.com
 
 <!---
